@@ -3,9 +3,11 @@
     "preview": {
       "android": {
         "buildType": "apk"
+      },
+      "env": {
+        "EXPO_PUBLIC_API_KEY": "4931cae34d7a4d24b208d55ce8bcab66"
       }
     },
-    
     "preview2": {
       "android": {
         "gradleCommand": ":app:assembleRelease"
